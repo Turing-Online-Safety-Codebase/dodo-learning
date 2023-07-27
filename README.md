@@ -47,4 +47,4 @@ See `data_statement.md` for a full data statement on the DoDo dataset.
 
 ## License
 
-We make the source code for this project available under . . .
+We make the source code for this project available under the MIT License.
