@@ -1,0 +1,27 @@
+name: dodo_env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - scikit-learn==1.1.3
+  - pip=22.0.3
+  - cudatoolkit=11.1
+  - pip:
+    - accelerate==0.18.0
+    - azure-cosmos==4.1.0
+    - azure-storage-blob==12.9.0
+    - transformers[sentencepiece]
+    - torch
+  - absl-py
+
+  # Core python
+  - numpy
+  - tqdm
+  - pandas
+  
+  # Plotting
+  - matplotlib
+  - plotly
+  - seaborn

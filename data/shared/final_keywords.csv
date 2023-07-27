@@ -1,0 +1,733 @@
+,keyword,identity,general,labeller,label
+0,retard,1,0,A0,identity
+1,retarted,1,0,A0,identity
+2,tard,1,0,A0,identity
+3,mong,1,0,A0,identity
+4,mongoloid,1,0,A0,identity
+5,brain-damaged,1,0,A0,identity
+6,feeble-minded,1,0,A0,identity
+7,cretin,1,0,A0,identity
+8,mentally handicapped,1,0,A0,identity
+9,backward nut house,1,0,A0,identity
+10,loony bin,1,0,A0,identity
+11,lunatic,1,0,A0,identity
+12,psycho,1,0,A0,identity
+13,wacko,1,0,A0,identity
+14,mentally handicapped,1,0,A0,identity
+15,window-licker,1,0,A0,identity
+16,mentally deficient,1,0,A0,identity
+17,basket case,1,0,A0,identity
+18,mentally deraged,1,0,A0,identity
+19,autie,1,0,A0,identity
+20,autarded,1,0,A0,identity
+21,autist cripple,1,0,A0,identity
+22,spastic,1,0,A0,identity
+23,spatz,1,0,A0,identity
+24,spazz,1,0,A0,identity
+25,spazzie,1,0,A0,identity
+26,deformed,1,0,A0,identity
+27,handicapped,1,0,A0,identity
+28,wheelchair-bound,1,0,A0,identity
+29,cross-eyed,1,0,A0,identity
+30,skew-eyed,1,0,A0,identity
+31,boss-eyed,1,0,A0,identity
+32,gozzy,1,0,A0,identity
+33,boat nigger,1,0,A0,identity
+34,drowners,1,0,A0,identity
+35,rapefugees,1,0,A0,identity
+36,immigrants,1,0,A0,identity
+37,immigrant,1,0,A0,identity
+38,plebs,1,0,A0,identity
+39,chavs,1,0,A0,identity
+40,nigger,1,0,A0,identity
+41,niger,1,0,A0,identity
+42,nigga,1,0,A0,identity
+43,niggur,1,0,A0,identity
+44,nigor,1,0,A0,identity
+45,nigre,1,0,A0,identity
+46,nig,1,0,A0,identity
+47,nigguh,1,0,A0,identity
+48,niggah,1,0,A0,identity
+49,nigar,1,0,A0,identity
+50,wog,1,0,A0,identity
+51,spear chucker,1,0,A0,identity
+52,ape,1,0,A0,identity
+53,ghetto trash,1,0,A0,identity
+54,cotton picker,1,0,A0,identity
+55,baboon,1,0,A0,identity
+56,coon,1,0,A0,identity
+57,golliwog,1,0,A0,identity
+58,kaffir,1,0,A0,identity
+59,kafir,1,0,A0,identity
+60,monkey,1,0,A0,identity
+61,nig-nog,1,0,A0,identity
+62,sambo,1,0,A0,identity
+63,darky,1,0,A0,identity
+64,darkey,1,0,A0,identity
+65,darkie,1,0,A0,identity
+66,negroid,1,0,A0,identity
+67,niglet,1,0,A0,identity
+68,nigglet,1,0,A0,identity
+69,tar baby,1,0,A0,identity
+70,negro,1,0,A0,identity
+71,negroes,1,0,A0,identity
+72,blacks,1,0,A0,identity
+73,black people,1,0,A0,identity
+74,black folk,1,0,A0,identity
+75,groid,1,0,A0,identity
+76,chink,1,0,A0,identity
+77,chinky,1,0,A0,identity
+78,ching-chongs,1,0,A0,identity
+79,chinaman,1,0,A0,identity
+80,bat-eaters,1,0,A0,identity
+81,yellowman,1,0,A0,identity
+82,yellowwoman,1,0,A0,identity
+83,slant-eye,1,0,A0,identity
+84,slopehead,1,0,A0,identity
+85,brownie,1,0,A0,identity
+86,curry-muncher,1,0,A0,identity
+87,curry muncher,1,0,A0,identity
+88,curry eater,1,0,A0,identity
+89,curryhead,1,0,A0,identity
+90,curry boy,1,0,A0,identity
+91,curry nigger,1,0,A0,identity
+92,paki,1,0,A0,identity
+93,pakki,1,0,A0,identity
+94,beaner,1,0,A0,identity
+95,spic,1,0,A0,identity
+96,greaser,1,0,A0,identity
+97,wetback,1,0,A0,identity
+98,pepperbelly,1,0,A0,identity
+99,latrino,1,0,A0,identity
+100,travellers,1,0,A0,identity
+101,irish travellers,1,0,A0,identity
+102,pikey,1,0,A0,identity
+103,piky,1,0,A0,identity
+104,gypsy,1,0,A0,identity
+105,gpyo,1,0,A0,identity
+106,gyp,1,0,A0,identity
+107,gypsies,1,0,A0,identity
+108,gipsies,1,0,A0,identity
+109,muslim,1,0,A0,identity
+110,mussies,1,0,A0,identity
+111,mozzie,1,0,A0,identity
+112,mussie,1,0,A0,identity
+113,quran thumper,1,0,A0,identity
+114,raghead,1,0,A0,identity
+115,towelhead,1,0,A0,identity
+116,camel cowboy,1,0,A0,identity
+117,camel jockey,1,0,A0,identity
+118,camel crunch,1,0,A0,identity
+119,camel-fucker,1,0,A0,identity
+120,camel-jacker,1,0,A0,identity
+121,camel pilot,1,0,A0,identity
+122,cave nigger,1,0,A0,identity
+123,sand nigger,1,0,A0,identity
+124,goat-fucker,1,0,A0,identity
+125,bible thumper,1,0,A0,identity
+126,bible beater,1,0,A0,identity
+127,jew,1,0,A0,identity
+128,jewisg,1,0,A0,identity
+129,kyke,1,0,A0,identity
+130,kike,1,0,A0,identity
+131,jewboy,1,0,A0,identity
+132,shylock,1,0,A0,identity
+133,yid,1,0,A0,identity
+134,zhyd,1,0,A0,identity
+135,zhid,1,0,A0,identity
+136,sheeny,1,0,A0,identity
+137,oven dodger,1,0,A0,identity
+138,sheeny,1,0,A0,identity
+139,gay,1,0,A0,identity
+140,queer,1,0,A0,identity
+141,homo,1,0,A0,identity
+142,fag,1,0,A0,identity
+143,homo,1,0,A0,identity
+144,faggot,1,0,A0,identity
+145,poof,1,0,A0,identity
+146,bumder,1,0,A2,identity
+147,bender,1,0,A0,identity
+148,batty,1,0,A0,identity
+149,batty boy,1,0,A2,identity
+150,batty bwoy,1,0,A2,identity
+151,batty man,1,0,A2,identity
+152,nancy,1,0,A0,identity
+153,nancy boy,1,0,A2,identity
+154,woofter,1,0,A2,identity
+155,twinkie,1,0,A2,identity
+156,twink,1,0,A0,identity
+157,nellie,1,0,A2,identity
+158,bent,1,0,A0,identity
+159,arseking,1,0,A2,identity
+160,arse bandit,1,0,A2,identity
+161,pansy,1,0,A0,identity
+162,pillow-biter,1,0,A2,identity
+163,sissy,1,0,A0,identity
+164,brownie,1,0,A0,identity
+165,fudgepacker,1,0,A2,identity
+166,ponce,1,0,A0,identity
+167,quean,1,0,A2,identity
+168,switch hitter,1,0,A2,identity
+169,fauxbian,1,0,A2,identity
+170,bitch,1,0,A0,identity
+171,femoid,1,0,A2,identity
+172,skanks,1,0,A2,identity
+173,whore,1,0,A0,identity
+174,cum dumpster,1,0,A2,identity
+175,slut,1,0,A0,identity
+176,feminazi,1,0,A2,identity
+177,cock tease,1,0,A2,identity
+178,cunt,1,0,A0,identity
+179,trannie,1,0,A2,identity
+180,tranny,1,0,A0,identity
+181,shim,1,0,A0,identity
+182,heshe,1,0,A2,identity
+183,transtrender,1,0,A2,identity
+184,tucute,1,0,A2,identity
+185,troon,1,0,A2,identity
+186,hefemale,1,0,A2,identity
+187,cuntboy,1,0,A2,identity
+188,shemale,1,0,A0,identity
+189,dickgirl,1,0,A2,identity
+190,ladyboy,1,0,A2,identity
+191,chicks with dicks,1,0,A2,identity
+192,quean,1,0,A2,identity
+193,she-man,1,0,A2,identity
+194,shithead,0,1,A0,general
+195,fannyfucker,0,1,A2,general
+196,goatse,1,0,A2,identity
+197,s hit,0,1,A0,general
+198,hoar,1,0,A2,identity
+199,slave,1,0,A0,identity
+200,cumming,0,1,A0,general
+201,muthafuckker,0,1,A2,general
+202,fagot,1,0,A0,identity
+203,b17ch,0,1,A2,general
+204,soup taker,1,0,A2,identity
+205,niggers,1,0,A2,identity
+206,trailer park trash,1,0,A2,identity
+207,a white trash,0,1,A2,general
+208,is a fuckin,0,1,A0,general
+209,pissed,0,1,A0,general
+210,nob,0,1,A0,general
+211,jungle bunny,1,0,A2,identity
+212,cunts,1,0,A0,identity
+213,many niggers are in,1,0,A2,identity
+214,fag and,1,0,A2,identity
+215,a white person,1,0,A2,identity
+216,jizm,0,1,A2,general
+217,ejaculate,0,1,A0,general
+218,knobed,1,0,A2,identity
+219,inbred,1,0,A0,identity
+220,fuck,0,1,A0,general
+221,of white,1,0,A0,identity
+222,chink eyed,1,0,A2,identity
+223,fook,0,1,A0,general
+224,shit,0,1,A0,general
+225,white boy,1,0,A0,identity
+226,here faggot,1,0,A2,identity
+227,asshole,0,1,A0,general
+228,fukkin,0,1,A0,general
+229,be killed,0,1,A0,general
+230,faggot and,1,0,A2,identity
+231,raped and,1,0,A2,identity
+232,your bitch in,0,1,A2,general
+233,dildos,0,1,A0,general
+234,shorty bitch,0,1,A2,general
+235,niggaz,1,0,A0,identity
+236,pussys,0,1,A0,general
+237,fanny,1,0,A0,identity
+238,masturbate,0,1,A0,general
+239,phuck,0,1,A0,general
+240,bollock,0,1,A0,general
+241,cox,0,1,A0,general
+242,you a fag,1,0,A2,identity
+243,nigger music,1,0,A2,identity
+244,faggot that,1,0,A2,identity
+245,son-of-a-bitch,0,1,A2,general
+246,dildo,0,1,A0,general
+247,this nigger,1,0,A2,identity
+248,jizz,0,1,A0,general
+249,cocks,0,1,A0,general
+250,hell,0,1,A0,general
+251,wank,0,1,A0,general
+252,coksucka,1,0,A2,identity
+253,cuntlicker,1,0,A2,identity
+254,fucks,0,1,A0,general
+255,get raped,0,1,A0,general
+256,faggots usually have,1,0,A2,identity
+257,bi+ch,0,1,A2,general
+258,dyke,1,0,A0,identity
+259,muthafecker,0,1,A2,general
+260,smut,0,1,A2,general
+261,fucking gay,1,0,A0,identity
+262,hore,0,1,A2,general
+263,how many niggers are,1,0,A2,identity
+264,knobead,0,1,A2,general
+265,motherfucks,0,1,A2,general
+266,tit,0,1,A0,general
+267,shagger,0,1,A0,general
+268,pussi,0,1,A2,general
+269,cocksukka,0,1,A2,general
+270,cockface,0,1,A2,general
+271,smegma,0,1,A2,general
+272,scrotum,0,1,A0,general
+273,faggots and,1,0,A2,identity
+274,white bitch in,1,0,A2,identity
+275,fudge packer,0,1,A2,general
+276,cummer,0,1,A0,general
+277,spunk,0,1,A0,general
+278,niggers,1,0,A0,identity
+279,hate faggots,1,0,A2,identity
+280,pussies,0,1,A0,general
+281,faggots like you,1,0,A2,identity
+282,is a fag,1,0,A2,identity
+283,donkeyribber,0,1,A2,general
+284,all these fucking,0,1,A0,general
+285,rube,1,0,A0,identity
+286,fagots,1,0,A2,identity
+287,rimjaw,0,1,A2,general
+288,clit,0,1,A0,general
+289,fags are,1,0,A2,identity
+290,like a faggot,1,0,A2,identity
+291,hillbilly,1,0,A2,identity
+292,dumb monkey,0,1,A1,general
+293,you fag,1,0,A0,identity
+294,is a faggot,1,0,A1,identity
+295,fuckme,0,1,A1,general
+296,bollok,0,1,A1,general
+297,n1gga,1,0,A1,identity
+298,hoare,1,0,A1,identity
+299,s_h_i_t,0,1,A1,general
+300,the faggots,1,0,A1,identity
+301,fingerfuck,0,1,A1,general
+302,raped,0,1,A0,general
+303,faggot bitch,1,0,A0,identity
+304,hate you,0,1,A0,general
+305,fistfucker,0,1,A1,general
+306,little faggot,1,0,A0,identity
+307,bellend,0,1,A0,general
+308,fuckings,0,1,A0,general
+309,horny,0,1,A0,general
+310,fingerfucker,0,1,A1,general
+311,assfucker,0,1,A1,general
+312,ar5e,0,1,A1,general
+313,masochist,0,1,A0,general
+314,the faggots who,1,0,A1,identity
+315,cockmuncher,0,1,A1,general
+316,phuks,0,1,A1,general
+317,anus,0,1,A0,general
+318,cocksucking,0,1,A1,general
+319,jerk-off,0,1,A1,general
+320,wang,0,1,A0,general
+321,m0fo,0,1,A1,general
+322,mothafuckin,0,1,A1,general
+323,phonesex,0,1,A1,general
+324,nobjocky,0,1,A1,general
+325,twat,1,0,A0,identity
+326,kock,0,1,A1,general
+327,jackoff,0,1,A1,general
+328,tittiefucker,0,1,A1,general
+329,fukwit,0,1,A1,general
+330,fucking queer,1,0,A1,identity
+331,kill yourself,0,1,A0,general
+332,fucked,0,1,A0,general
+333,prick,0,1,A0,general
+334,assfukka,0,1,A1,general
+335,cocksuka,0,1,A1,general
+336,fistfucking,0,1,A1,general
+337,butt,0,1,A0,general
+338,beastiality,0,1,A0,general
+339,your a dirty,0,1,A0,general
+340,cunillingus,0,1,A1,general
+341,tittie5,0,1,A1,general
+342,niggers are in my,1,0,A1,identity
+343,mothafuckers,0,1,A1,general
+344,faggot a,1,0,A1,identity
+345,fukker,0,1,A1,general
+346,titfuck,0,1,A1,general
+347,faggitt,1,0,A1,identity
+348,white nigger,1,0,A1,identity
+349,arse,0,1,A0,general
+350,motherfuck,0,1,A0,general
+351,feck,0,1,A0,general
+352,titt,0,1,A0,general
+353,f u c k,0,1,A0,general
+354,rectum,0,1,A0,general
+355,shittings,0,1,A1,general
+356,a55,0,1,A0,general
+357,ejaculates,0,1,A1,general
+358,nutsack,0,1,A0,general
+359,then faggot,1,0,A1,identity
+360,pigfucker,0,1,A1,general
+361,dick,0,1,A0,general
+362,bitchin,0,1,A0,general
+363,wit a lame nigga,1,0,A1,identity
+364,shag,0,1,A0,general
+365,mofo,0,1,A0,general
+366,arrse,0,1,A1,general
+367,mother fucker,0,1,A0,general
+368,bunny fucker,0,1,A1,general
+369,redneck,1,0,A1,identity
+370,ejaculated,0,1,A0,general
+371,twunter,0,1,A1,general
+372,scroat,1,0,A1,identity
+373,shaggin,0,1,A0,general
+374,cuntlicking,0,1,A1,general
+375,whoar,0,1,A1,general
+376,cokmuncher,0,1,A1,general
+377,twathead,0,1,A1,general
+378,my coon,1,0,A1,identity
+379,fuckingshitmotherfucker,0,1,A1,general
+380,sh!+,0,1,A1,general
+381,mothafuckaz,0,1,A1,general
+382,teez,0,1,A1,general
+383,fistfuckers,0,1,A1,general
+384,shagging,0,1,A0,general
+385,him a nigga,1,0,A1,identity
+386,bitches,1,0,A0,identity
+387,fcuk,0,1,A0,general
+388,gaylord,1,0,A1,identity
+389,snatch,1,0,A0,identity
+390,l3itch,0,1,A1,general
+391,coon shit,0,1,A1,general
+392,schlong,0,1,A1,general
+393,plastic paddy,1,0,A1,identity
+394,a fag and,1,0,A1,identity
+395,fagging,1,0,A1,identity
+396,a bitch made,0,1,A1,general
+397,cunilingus,0,1,A1,general
+398,chinks in,1,0,A1,identity
+399,b!tch,1,0,A0,identity
+400,mothafuck,0,1,A1,general
+401,ass,0,1,A0,general
+402,kawk,0,1,A1,general
+403,butt ugly,0,1,A1,general
+404,with niggas,1,0,A1,identity
+405,twatty,0,1,A1,general
+406,bitchers,0,1,A1,general
+407,bestiality,0,1,A1,general
+408,nigger is,1,0,A1,identity
+409,masterbat*,0,1,A1,general
+410,niggers are in,1,0,A1,identity
+411,ejaculatings,0,1,A1,general
+412,his shorty bitch,0,1,A1,general
+413,screwing,0,1,A0,general
+414,cocksucker,1,0,A0,identity
+415,faggs,1,0,A1,identity
+416,tittyfuck,0,1,A1,general
+417,cipa,0,1,A1,general
+418,clitoris,0,1,A0,general
+419,still a faggot,1,0,A4,identity
+420,motherfuckin,0,1,A4,general
+421,me faggot,1,0,A4,identity
+422,fuckin faggot,1,0,A4,identity
+423,a nigga ask,1,0,A4,identity
+424,that faggot,1,0,A4,identity
+425,faggots usually,1,0,A4,identity
+426,mothafucker,0,1,A4,general
+427,fuck outta here,0,1,A4,general
+428,white trash and,1,0,A4,identity
+429,5h1t,0,1,A0,general
+430,sideways pussy,1,0,A4,identity
+431,shitdick,1,0,A4,identity
+432,fuk,0,1,A0,general
+433,shited,0,1,A4,general
+434,motherfuckers,0,1,A0,general
+435,savages,1,0,A0,identity
+436,mo-fo,0,1,A4,general
+437,nob jokey,1,0,A4,identity
+438,turd,0,1,A0,general
+439,zionazi,1,0,A4,identity
+440,camel fucker,1,0,A4,identity
+441,fannyflaps,0,1,A4,general
+442,fecker,0,1,A0,general
+443,dickhead,0,1,A0,general
+444,fingerfuckers,0,1,A4,general
+445,fucking,0,1,A0,general
+446,fistfuck,0,1,A4,general
+447,all niggers,1,0,A4,identity
+448,fucking hate you,0,1,A4,general
+449,niggers are,1,0,A4,identity
+450,piss,0,1,A0,general
+451,fcuking,0,1,A0,general
+452,n1gger,1,0,A0,identity
+453,shitters,0,1,A0,general
+454,asswhole,0,1,A0,general
+455,shite,0,1,A0,general
+456,sh1t,0,1,A0,general
+457,fuks,0,1,A0,general
+458,twunt,1,0,A0,identity
+459,yobbo,1,0,A4,identity
+460,always fuck,0,1,A0,general
+461,5hit,0,1,A4,general
+462,blow job,0,1,A0,general
+463,you fucking faggot,1,0,A4,identity
+464,fux,0,1,A0,general
+465,fucking faggot,1,0,A4,identity
+466,bum,0,1,A0,general
+467,you nigger,1,0,A0,identity
+468,cyberfucking,0,1,A4,general
+469,fags,1,0,A0,identity
+470,shiting,0,1,A4,general
+471,knobhead,0,1,A0,general
+472,motherfuckings,0,1,A4,general
+473,nazi,1,0,A0,identity
+474,gangbang,1,0,A0,identity
+475,your a cunt,1,0,A0,identity
+476,the biggest faggot,1,0,A4,identity
+477,felching,1,0,A0,identity
+478,you niggers,1,0,A4,identity
+479,blowjob,0,1,A0,general
+480,cums,0,1,A1,general
+481,nigga ask,1,0,A4,identity
+482,motherfucker,0,1,A1,general
+483,penis,0,1,A1,general
+484,faggots who,1,0,A4,identity
+485,jap,1,0,A4,identity
+486,ass white,1,0,A4,identity
+487,flange,1,0,A4,identity
+488,spac,1,0,A4,identity
+489,asses,0,1,A1,general
+490,buttplug,0,1,A1,general
+491,m0f0,0,1,A4,general
+492,is white,1,0,A1,identity
+493,a faggot for,1,0,A4,identity
+494,jack-off,0,1,A4,general
+495,semen,0,1,A1,general
+496,dumb nigger,1,0,A4,identity
+497,niggas like,1,0,A4,identity
+498,cyberfucked,0,1,A4,general
+499,shitey,0,1,A4,general
+500,faggot for,1,0,A4,identity
+501,whites,1,0,A1,identity
+502,nigg4h,1,0,A4,identity
+503,ejaculation,0,1,A1,general
+504,mothafuckings,0,1,A4,general
+505,a nigger,0,1,A1,general
+506,sluts,1,0,A4,identity
+507,fucking nigger,1,0,A1,identity
+508,shitted,0,1,A1,general
+509,stupid nigger,1,0,A4,identity
+510,phukking,0,1,A4,general
+511,cockmunch,1,0,A4,identity
+512,cyberfucker,0,1,A4,general
+513,mothafucked,0,1,A4,general
+514,fuck u talking,0,1,A4,general
+515,a_s_s,1,0,A4,identity
+516,you a lame bitch,1,0,A4,identity
+517,doggin,0,1,A1,general
+518,fuck you too,0,1,A1,general
+519,a faggot and,1,0,A4,identity
+520,white ass,1,0,A4,identity
+521,all white,1,0,A1,identity
+522,bitcher,0,1,A4,general
+523,b1tch,1,0,A1,identity
+524,cum,0,1,A1,general
+525,sadist,0,1,A1,general
+526,wigerette,1,0,A4,identity
+527,you a nigger,1,0,A4,identity
+528,your faggot,1,0,A4,identity
+529,biggest faggot,1,0,A4,identity
+530,hate fat,0,1,A1,general
+531,shitting,0,1,A1,general
+532,faggot ass,1,0,A1,identity
+533,kum,0,1,A1,general
+534,boobs,1,0,A1,identity
+535,l3i+ch,1,0,A4,identity
+536,ass-fucker,1,0,A4,identity
+537,mothafucking,0,1,A4,general
+538,buttmuch,0,1,A4,general
+539,mutherfucker,0,1,A4,general
+540,nigg3r,1,0,A4,identity
+541,knobjocky,1,0,A4,identity
+542,fooker,0,1,A1,general
+543,the niggers,1,0,A4,identity
+544,bamboo coon,1,0,A4,identity
+545,pimpis,1,0,A4,identity
+546,house nigger,1,0,A4,identity
+547,mof0,0,1,A4,general
+548,full of white,1,0,A4,identity
+549,assholes,0,1,A1,general
+550,bint,1,0,A4,identity
+551,f_u_c_k,0,1,A4,general
+552,allah akbar,1,0,A1,identity
+553,motherfucking,0,1,A1,general
+554,fatass,0,1,A1,general
+555,fingerfucks,0,1,A0,general
+556,mothafucka,0,1,A1,general
+557,phuq,0,1,A0,general
+558,pissing,0,1,A1,general
+559,surrender monkey,1,0,A0,identity
+560,mothafuckas,1,0,A1,identity
+561,titties,0,1,A1,general
+562,buceta,1,0,A0,identity
+563,queers,1,0,A0,identity
+564,wigger,1,0,A0,identity
+565,cawk,0,1,A0,general
+566,cyberfuc,0,1,A0,general
+567,cocksucked,0,1,A0,general
+568,b00bs,1,0,A0,identity
+569,cocksucks,0,1,A0,general
+570,that fag,1,0,A0,identity
+571,fistfucks,0,1,A0,general
+572,c0ck,0,1,A1,general
+573,carpet muncher,1,0,A0,identity
+574,pricks,0,1,A1,general
+575,pusse,0,1,A0,general
+576,coonass,1,0,A0,identity
+577,that nigger,1,0,A0,identity
+578,cyberfuck,0,1,A0,general
+579,scrote,0,1,A1,general
+580,a fucking queer,1,0,A0,identity
+581,skank,1,0,A1,identity
+582,ugly dyke,1,0,A0,identity
+583,fingerfucked,0,1,A0,general
+584,duche,0,1,A0,general
+585,nobjokey,0,1,A0,general
+586,motherfuckka,0,1,A0,general
+587,shits,0,1,A1,general
+588,fistfuckings,0,1,A0,general
+589,shitfuck,0,1,A0,general
+590,mutha,0,1,A1,general
+591,phuked,0,1,A0,general
+592,numbnuts,0,1,A1,general
+593,knobend,0,1,A0,general
+594,faggot if you ever,1,0,A0,identity
+595,motherfucked,0,1,A0,general
+596,fuckheads,0,1,A0,general
+597,tittywank,0,1,A0,general
+598,bastard,0,1,A1,general
+599,retarded,1,0,A1,identity
+600,fuckwhit,1,0,A0,identity
+601,fuckwit,0,1,A0,general
+602,kummer,0,1,A0,general
+603,bitch made nigga,1,0,A0,identity
+604,fucker,0,1,A0,general
+605,spic cop,1,0,A0,identity
+606,nigga and his,1,0,A0,identity
+607,nobhead,0,1,A0,general
+608,your nigger,1,0,A0,identity
+609,fcuker,0,1,A0,general
+610,mothafucks,0,1,A0,general
+611,pecker,1,0,A0,identity
+612,lame nigga you a,1,0,A0,identity
+613,s.o.b.,0,1,A0,general
+614,white person,1,0,A0,identity
+615,gay ass,1,0,A0,identity
+616,f4nny,1,0,A0,identity
+617,a fag but,1,0,A0,identity
+618,the fuck do,0,1,A0,general
+619,a bitch made nigga,1,0,A0,identity
+620,how many niggers,1,0,A0,identity
+621,boiolas,1,0,A0,identity
+622,fingerfucking,0,1,A0,general
+623,dlck,0,1,A0,general
+624,fuckin,0,1,A0,general
+625,fuker,0,1,A0,general
+626,shitter,0,1,A0,general
+627,wetbacks,1,0,A0,identity
+628,fucking hate,0,1,A0,general
+629,of fags,1,0,A0,identity
+630,cyberfuckers,0,1,A0,general
+631,raped by,0,1,A0,general
+632,crap,0,1,A0,general
+633,chinks,1,0,A0,identity
+634,shut up nigger,1,0,A0,identity
+635,fucka,0,1,A0,general
+636,faggot smh,1,0,A0,identity
+637,cockhead,0,1,A0,general
+638,pissoff,0,1,A0,general
+639,gangbanged,0,1,A0,general
+640,a lame nigga you,1,0,A0,identity
+641,savages that,1,0,A0,identity
+642,dykes,1,0,A3,identity
+643,butthole,0,1,A3,general
+644,like da colored,1,0,A3,identity
+645,shi+,0,1,A3,general
+646,wanky,0,1,A3,general
+647,penisfucker,0,1,A3,general
+648,pussy,0,1,A3,general
+649,hoer,1,0,A3,identity
+650,whigger,1,0,A3,identity
+651,up nigger,1,0,A3,identity
+652,f u c k e r,0,1,A3,general
+653,nigger ass,1,0,A3,identity
+654,dog-fucker,0,1,A3,general
+655,jiz,0,1,A3,general
+656,muzzie,1,0,A3,identity
+657,fux0r,0,1,A3,general
+658,kunilingus,0,1,A3,general
+659,wanker,0,1,A3,general
+660,masterb8,0,1,A3,general
+661,pissers,0,1,A3,general
+662,bugger,0,1,A3,general
+663,fanyy,0,1,A3,general
+664,d1ck,0,1,A3,general
+665,fuckers,0,1,A3,general
+666,you fuck wit,0,1,A3,general
+667,cock,0,1,A3,general
+668,cuntlick,0,1,A3,general
+669,fellatio,0,1,A3,general
+670,phukked,0,1,A3,general
+671,testicle,0,1,A3,general
+672,boob,0,1,A3,general
+673,titwank,0,1,A3,general
+674,faggots,1,0,A3,identity
+675,boner,0,1,A3,general
+676,of white trash,1,0,A3,identity
+677,sh!t,0,1,A3,general
+678,you fuck wit a,0,1,A3,general
+679,shitty,0,1,A3,general
+680,knob,0,1,A3,general
+681,white trash,1,0,A3,identity
+682,c0cksucker,0,1,A3,general
+683,moon cricket,1,0,A3,identity
+684,u fuckin,0,1,A3,general
+685,limey,1,0,A3,identity
+686,trailer park,0,1,A3,general
+687,to rape,0,1,A3,general
+688,phuking,0,1,A3,general
+689,pissin,0,1,A3,general
+690,trailer trash,1,0,A3,identity
+691,is a fucking,0,1,A3,general
+692,vagina,0,1,A3,general
+693,phuk,0,1,A3,general
+694,many niggers,1,0,A3,identity
+695,dinks,1,0,A3,identity
+696,w00se,0,1,A3,general
+697,cok,0,1,A3,general
+698,tosser,0,1,A3,general
+699,full of white trash,1,0,A3,identity
+700,bestial,0,1,A3,general
+701,trash with,0,1,A3,general
+702,biatch,1,0,A3,identity
+703,pissflaps,0,1,A3,general
+704,ballbag,0,1,A3,general
+705,blowjobs,0,1,A3,general
+706,cock-sucker,0,1,A3,general
+707,dirsa,0,1,A3,general
+708,faggots like,1,0,A3,identity
+709,many niggers are,1,0,A3,identity
+710,ballsack,0,1,A3,general
+711,cnut,1,0,A3,identity
+712,shitings,0,1,A3,general
+713,breasts,1,0,A3,identity
+714,fistfucked,0,1,A3,general
+715,them white,1,0,A3,identity
+716,hate all,0,1,A3,general
+717,bitching,0,1,A3,general
+718,tw4t,1,0,A3,identity
+719,willy,0,1,A3,general
+720,niggas,1,0,A3,identity
+721,nigga you a lame,1,0,A3,identity
+722,tits,0,1,A3,general
+723,kill all,0,1,A3,general
+724,is a nigger,1,0,A3,identity
+725,fag but,1,0,A3,identity
+726,fukwhit,0,1,A3,general
+727,what a fag,1,0,A3,identity
+728,booooobs,1,0,A3,identity
+729,muther,0,1,A3,general
+730,fuckhead,0,1,A3,general
+731,cocksuck,0,1,A3,general
