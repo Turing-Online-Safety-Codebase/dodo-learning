@@ -2,7 +2,7 @@
 
 ## Curation Rationale
 
-The purpose of the \textsc{DoDo} dataset is to train, evaluate, and refine language models for classification tasks related to understanding online conversations directed at footballers and MPs.
+The purpose of the DoDo dataset is to train, evaluate, and refine language models for classification tasks related to understanding online conversations directed at footballers and MPs.
 
 ## Language Variety
 
@@ -26,5 +26,5 @@ The data consists of short-form written textual entries from social media (Twitt
 
 ## Text Characteristics
 
-The genre of texts is a mix of abusive, critical, positive, and neutral social media entries (tweets). See the dataset composition in \cref{table:tweet_counts_inline} and \cref{subsection:class_distribution_examples}.
+The genre of texts is a mix of abusive, critical, positive, and neutral social media entries (tweets). Of the 12,000 total entries annotated, 8,304 were labelled positive, 7,360 were labelled neutral, 7,878 were labelled critical, and 4,458 were labelled abusive.
 
