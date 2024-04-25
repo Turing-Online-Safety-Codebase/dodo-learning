@@ -1,7 +1,9 @@
 # 🦤 DoDo Learning
 
-Repository for *"DoDo Learning: Domain-Demographic Transfer for Detecting Abuse Against Public Figures"* by [Hannah Rose Kirk](https://github.com/HannahKirk),
+Repository for [*"DoDo Learning: Domain-Demographic Transfer for Detecting Abuse Against Public Figures"*](https://arxiv.org/abs/2307.16811) 
+
 [Angus R. Williams](https://github.com/angusrw),
+[Hannah Rose Kirk](https://github.com/HannahKirk),
 Liam Burke,
 Yi-Ling Chung,
 Ivan Debono,
